@@ -17,9 +17,9 @@ on the original dataset.
 
 <h1> Algorithms: </h1>
 <h2> ● Feature Engineering: </h2>
-1. to use text mining techniques, we put all of text type columns in one column for ease of processing
-2. TFIDFVectorizer on features to highlight words that are more interesting
-3. doing clustring on real and fake news 
+1. to use text mining techniques, we put all of text type columns in one column for ease of processing  <br />    
+2. TFIDFVectorizer on features to highlight words that are more interesting <br />
+3. doing clustring on real and fake news <br />
 <h2> ● Models:</h2>
 We have explored many classification machine learning models
 in order to choose the best for our case. The models are Kneighbors Classification KNN, Random Forest RF,
