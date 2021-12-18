@@ -35,9 +35,13 @@ because it shows the best score between all models.
 
 <h1> Communication: </h1>
 
+
+<img width="400" src="https://user-images.githubusercontent.com/74211933/146646403-c38a4350-8c95-49d3-9475-bcde11da0648.PNG">
+
+
 <img width="533" alt="Screen Shot 2021-12-15 at 2 33 31 PM" src="https://user-images.githubusercontent.com/74211933/146641205-e32ba8e2-8560-4254-9a69-db22ef6203b8.png">
 <img width="375" alt="Screen Shot 2021-12-15 at 1 57 35 PM" src="https://user-images.githubusercontent.com/74211933/146641213-a51e94f0-ce5a-4d14-832c-0e0a073bc726.png">
-<img width="407" alt="Screen Shot 2021-12-15 at 3 40 59 PM" src="https://user-images.githubusercontent.com/74211933/146641217-53e15ec7-7d40-4db5-9749-9d41e6048c2a.png">
+<img width="500" alt="Screen Shot 2021-12-15 at 3 40 59 PM" src="https://user-images.githubusercontent.com/74211933/146641217-53e15ec7-7d40-4db5-9749-9d41e6048c2a.png">
 <img width="533" src="https://user-images.githubusercontent.com/74211933/146641412-0e9e9f0c-209a-4678-845d-8605000af4c8.png">
 <img width="533" src="https://user-images.githubusercontent.com/74211933/146641418-6ceb6790-5b40-4f44-84f7-d56a0389be57.png">
 
